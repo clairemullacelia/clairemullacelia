@@ -24,6 +24,11 @@ evidence for each one.
 skill that sets up Figma files a designer can design in. Claude lays out the parts as real,
 editable layers. The designer makes the design calls.
 
+### bakeloop
+**[bakeloop-skill](https://github.com/clairemullacelia/bakeloop-skill)**: a Claude Code skill
+that ships app changes through separate spec, build, test and review agents, with screenshot
+evidence for every change. The loop behind bakebook.
+
 ### Reach me
 - [clairemull.com](https://clairemull.com)
 - [LinkedIn](https://www.linkedin.com/in/claire-mull-317062188)
