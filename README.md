@@ -1,6 +1,6 @@
 # Hi, I'm Claire
 
-I'm a product designer who ships. I design products and build them with Claude Code.
+I'm a product and visual designer. I design products and build them with Claude Code.
 
 - **Currently:** running **[bakebook](https://bakebook.co)**, a recipe development and storage app.
   Live on the [App Store](https://apps.apple.com/us/app/bakebook-recipe-lab/id6791304387),
