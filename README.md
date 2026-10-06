@@ -1,23 +1,30 @@
-# Hi, I'm Claire 👋
+# Hi, I'm Claire
 
-I build things end-to-end. I taught myself to code by shipping a real product — a live,
-full-stack, AI-powered app — rather than stopping at tutorials.
+I'm a product designer who ships. I design products and build them with Claude Code.
 
-- 🧈 **Currently:** building **[bakebook](https://bakebook-gz9v92.web.app)**, a recipe development
-  & storage app (live on the web, iOS on the way, Android in progress).
-- 🛠️ **I work with:** JavaScript, HTML/CSS, Firebase (Auth · Firestore · Functions · Storage),
-  Capacitor (iOS/Android), the Claude/Anthropic API, and RevenueCat.
-- 🌱 **Learning fast:** app architecture, secure API design, subscriptions/billing, and automated testing.
-- 💬 **Ask me about:** turning an idea into a shipped product as a solo, self-taught builder.
+- **Currently:** running **[bakebook](https://bakebook.co)**, a recipe development and storage app.
+  Live on the [App Store](https://apps.apple.com/us/app/bakebook-recipe-lab/id6791304387),
+  rolling out on Google Play, and on the web at [bakebook.co](https://bakebook.co).
+- **I work with:** JavaScript, HTML and CSS, Firebase (Auth, Firestore, Functions, Storage),
+  Capacitor (iOS and Android), the Claude API, RevenueCat, and Figma.
+- **Ask me about:** taking an idea from design to a shipped app, and working with AI agents
+  that build and test.
 
-### 🧈 Featured project — bakebook
-A recipe app that doesn't just store recipes but helps you **develop** them: scale, iterate,
-track bakes, and get help from **butter**, an AI baking assistant (Claude, behind a secure server
-proxy). Full-stack on Firebase, wrapped for mobile with Capacitor, with subscriptions via
-RevenueCat — and a custom Playwright-based automated dev/test pipeline behind the scenes.
+### bakebook
+A recipe app that helps you develop recipes, not only store them. Scale, save variations, log
+each bake, and ask **butter**, an AI baking assistant (Claude, behind a server proxy). Built on
+Firebase and wrapped for iOS and Android with Capacitor, with subscriptions through RevenueCat.
+Changes go through an automated loop of developer, testing and review agents, with screenshot
+evidence for each one.
 
-**→ [Live demo](https://bakebook-gz9v92.web.app)** · **[Repo](https://github.com/clairemullacelia/bakebook)**
+**[bakebook.co](https://bakebook.co)** · **[App Store](https://apps.apple.com/us/app/bakebook-recipe-lab/id6791304387)** · **[Repo](https://github.com/clairemullacelia/bakebook)**
 
-### 📫 Reach me
-- 📧 clairemullacelia@gmail.com
-<!-- 💼 Add your LinkedIn here, e.g.: - 💼 [LinkedIn](https://www.linkedin.com/in/your-handle) -->
+### figma-build
+**[figma-build-skill](https://github.com/clairemullacelia/figma-build-skill)**: a Claude Code
+skill that sets up Figma files a designer can design in. Claude lays out the parts as real,
+editable layers. The designer makes the design calls.
+
+### Reach me
+- [clairemull.com](https://clairemull.com)
+- [LinkedIn](https://www.linkedin.com/in/claire-mull-317062188)
+- clairemullacelia@gmail.com
