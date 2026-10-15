@@ -4,7 +4,7 @@ I'm a product and visual designer. I design products and build them with Claude 
 
 - **Currently:** running **[bakebook](https://bakebook.co)**, a recipe development and storage app.
   Live on the [App Store](https://apps.apple.com/us/app/bakebook-recipe-lab/id6791304387),
-  rolling out on Google Play, and on the web at [bakebook.co](https://bakebook.co).
+  on [Google Play](https://play.google.com/store/apps/details?id=com.clairemull.bakebook), and on the web at [bakebook.co](https://bakebook.co).
 - **I work with:** JavaScript, HTML and CSS, Firebase (Auth, Firestore, Functions, Storage),
   Capacitor (iOS and Android), the Claude API, RevenueCat, and Figma.
 - **Ask me about:** taking an idea from design to a shipped app, and working with AI agents
@@ -17,7 +17,7 @@ Firebase and wrapped for iOS and Android with Capacitor, with subscriptions thro
 Changes go through an automated loop of developer, testing and review agents, with screenshot
 evidence for each one.
 
-**[bakebook.co](https://bakebook.co)** · **[App Store](https://apps.apple.com/us/app/bakebook-recipe-lab/id6791304387)** · **[Repo](https://github.com/clairemullacelia/bakebook)**
+**[bakebook.co](https://bakebook.co)** · **[App Store](https://apps.apple.com/us/app/bakebook-recipe-lab/id6791304387)** · **[Google Play](https://play.google.com/store/apps/details?id=com.clairemull.bakebook)** · **[Repo](https://github.com/clairemullacelia/bakebook)**
 
 ### figma-build
 **[figma-build-skill](https://github.com/clairemullacelia/figma-build-skill)**: a Claude Code
